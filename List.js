@@ -51,8 +51,8 @@ WrappedListComponent.propTypes = {
 };
 WrappedListComponent.defaultProps = {
     items: [
-        { text: "SOMNATH GIRI" },
-        { text: "12011930" },
+        { text: "Shantanu dhar das" },
+        { text: "2141004036" },
         { text: "FRONTEND" },
         { text: "STEELEYE LIMITED" },
     ],
